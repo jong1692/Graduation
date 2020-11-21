@@ -1,5 +1,9 @@
 # Graduation
 
+<타이틀>
+
+NOAH
+
 <개요>
 
 장르: 3인칭 액션 RPG (3인칭 숄더뷰)
@@ -27,5 +31,6 @@ Managers, Player 등 중복해서 존재해서는 안되는 인스턴스에는 �
 
 Update method호출 최소화를 위해 피격 처리와 같은 부분은 피격당한 유닛에게 DamageMessage를 보내 처리하는 등, event 기반으로 처리하고자 함
 
+youtube: https://www.youtube.com/watch?v=Ra8XIE76Dog&ab_channel=%EA%B9%80%EC%A2%85%ED%98%81
 
 추가사항은 첨부된 기획서/개발보고서 
