@@ -4,6 +4,7 @@
 장르: 3인칭 액션 RPG (3인칭 숄더뷰)
 플랫폼: PC(Windows)
 개발환경: Unity3D / C#
+
 진행방식: 던전을 탐험하며 조우하는 몬스터와의 전투를 중심으로 전개. 최종적으로 마지막 스테이지에 있는 보스 몬스터를 처치하면 승리.
 그래픽 리소스: 메인 – POLYGON – Dungeons Pack (Unity Asset Store)
 그 외 유니티 Asset Store 무료 리소스 사용
